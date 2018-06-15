@@ -1,0 +1,467 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:17:1-60:12
+	package
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:18:5-48
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:22:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:23:5-76
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:23:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:26:22-72
+application
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:29:5-58:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hjo\.android\build-cache\5548bde25dec542b9010094bb11e4437ad0865a4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hjo\.android\build-cache\70a430d7195dde1ebe4983747f68216dd8b1e687\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hjo\.android\build-cache\4d3193df7c5d336f2c2cd5877ba7b6dbbe979160\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hjo\.android\build-cache\c7c8bf5517b9a3d58b5e6d19c6e7748a6e422bed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hjo\.android\build-cache\21d1cf8399c71fe414c1f31eb76ca72e48878646\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hjo\.android\build-cache\83aa7f28876defe9785c93c3cea06a3c7b830d35\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hjo\.android\build-cache\416882c41cc760c4fc73b2aaf5facd3e7b3538b7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hjo\.android\build-cache\299dccf2418786bf7b084d1fe31c92df654f5cec\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hjo\.android\build-cache\bee3d7df78bc6f4ff2d3ea1fa43fa305d1a2b21f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:26:5-221:19
+	android:label
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:33:9-41
+	android:supportsRtl
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:35:9-35
+	android:roundIcon
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:34:9-54
+	android:allowBackup
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:31:9-36
+	android:icon
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:32:9-43
+	android:theme
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:36:9-40
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:30:9-42
+activity#com.qihoo360.replugin.sample.host.MainActivity
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:38:9-44:20
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:38:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:39:13-43:29
+action#android.intent.action.MAIN
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:42:17-77
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:42:27-74
+activity#com.qihoo360.replugin.sample.host.PluginFragmentActivity
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:46:9-60
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:46:19-57
+provider#com.qihoo360.replugin.sample.host.FileProvider
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:49:9-57:20
+	android:authorities
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:51:13-82
+	android:grantUriPermissions
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:53:13-47
+	android:exported
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:50:13-41
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:54:13-56:71
+	android:resource
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:56:17-58
+	android:name
+		ADDED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml:55:17-67
+uses-sdk
+INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hjo\.android\build-cache\5548bde25dec542b9010094bb11e4437ad0865a4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hjo\.android\build-cache\70a430d7195dde1ebe4983747f68216dd8b1e687\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hjo\.android\build-cache\4d3193df7c5d336f2c2cd5877ba7b6dbbe979160\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hjo\.android\build-cache\c7c8bf5517b9a3d58b5e6d19c6e7748a6e422bed\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hjo\.android\build-cache\21d1cf8399c71fe414c1f31eb76ca72e48878646\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hjo\.android\build-cache\83aa7f28876defe9785c93c3cea06a3c7b830d35\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hjo\.android\build-cache\416882c41cc760c4fc73b2aaf5facd3e7b3538b7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hjo\.android\build-cache\299dccf2418786bf7b084d1fe31c92df654f5cec\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hjo\.android\build-cache\bee3d7df78bc6f4ff2d3ea1fa43fa305d1a2b21f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:22:5-24:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hjo\.android\build-cache\5548bde25dec542b9010094bb11e4437ad0865a4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+		INJECTED from D:\github\RePlugin-dev\replugin-sample\host\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hjo\.android\build-cache\5548bde25dec542b9010094bb11e4437ad0865a4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Hjo\.android\build-cache\70a430d7195dde1ebe4983747f68216dd8b1e687\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Hjo\.android\build-cache\4d3193df7c5d336f2c2cd5877ba7b6dbbe979160\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Hjo\.android\build-cache\c7c8bf5517b9a3d58b5e6d19c6e7748a6e422bed\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Hjo\.android\build-cache\21d1cf8399c71fe414c1f31eb76ca72e48878646\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Hjo\.android\build-cache\83aa7f28876defe9785c93c3cea06a3c7b830d35\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Hjo\.android\build-cache\416882c41cc760c4fc73b2aaf5facd3e7b3538b7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Hjo\.android\build-cache\299dccf2418786bf7b084d1fe31c92df654f5cec\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Hjo\.android\build-cache\bee3d7df78bc6f4ff2d3ea1fa43fa305d1a2b21f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hjo\.android\build-cache\5548bde25dec542b9010094bb11e4437ad0865a4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Hjo\.android\build-cache\5548bde25dec542b9010094bb11e4437ad0865a4\output\AndroidManifest.xml:26:9-47
+provider#com.qihoo360.replugin.component.process.ProcessPitProviderUI
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:37:9-40:40
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:39:13-67
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:38:13-88
+provider#${applicationId}.loader.p.ProviderN1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:41:9-44:40
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:43:13-65
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:42:13-64
+service#${applicationId}.loader.s.ServiceN1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:47:13-63
+provider#com.qihoo360.replugin.component.process.ProcessPitProviderLoader0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:50:9-54:42
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:52:13-66
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:54:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:51:13-93
+provider#${applicationId}.loader.p.Provider0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:55:9-59:42
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:57:13-64
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:59:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:56:13-63
+service#${applicationId}.loader.s.Service0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:61:9-64:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:64:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:62:13-62
+activity#${applicationId}.loader.a.Activity0_singleTask1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:66:9-74:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:71:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:72:13-49
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:70:13-44
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:69:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:68:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:74:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:73:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:67:13-75
+activity#${applicationId}.loader.a.Activity0_singleInstance1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:75:9-82:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:80:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:81:13-49
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:79:13-48
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:78:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:77:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:82:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:76:13-79
+activity#${applicationId}.loader.a.Activity0_task
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:83:9-89:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:87:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:88:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:86:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:85:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:89:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:84:13-68
+activity#${applicationId}.loader.a.Activity0_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:90:9-96:74
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:94:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:95:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:93:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:92:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:96:13-71
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:91:13-74
+activity#${applicationId}.loader.a.Activity0_translucent
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:97:9-103:75
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:101:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:102:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:100:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:99:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:103:13-72
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:98:13-75
+activity#${applicationId}.loader.a.Activity0_translucent_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:104:9-110:86
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:108:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:109:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:107:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:106:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:110:13-83
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:105:13-86
+activity#${applicationId}.loader.a.Activity0_dialog
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:111:9-117:59
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:115:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:116:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:114:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:113:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:117:13-56
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:112:13-70
+activity#${applicationId}.loader.a.Activity0
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:118:9-125:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:122:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:123:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:121:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:120:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:125:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:119:13-63
+provider#com.qihoo360.replugin.component.process.ProcessPitProviderLoader1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:127:9-131:42
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:129:13-66
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:131:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:130:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:128:13-93
+provider#${applicationId}.loader.p.Provider1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:132:9-136:42
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:134:13-64
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:136:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:135:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:133:13-63
+service#${applicationId}.loader.s.Service1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:138:9-141:42
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:141:13-39
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:140:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:139:13-62
+activity#${applicationId}.loader.a.Activity1_singleTask1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:143:9-151:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:148:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:149:13-49
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:147:13-44
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:146:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:145:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:151:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:150:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:144:13-75
+activity#${applicationId}.loader.a.Activity1_singleInstance1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:152:9-159:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:157:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:158:13-49
+	android:launchMode
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:156:13-48
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:155:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:154:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:159:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:153:13-79
+activity#${applicationId}.loader.a.Activity1_task
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:160:9-166:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:164:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:165:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:163:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:162:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:166:13-60
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:161:13-68
+activity#${applicationId}.loader.a.Activity1_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:167:9-173:74
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:171:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:172:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:170:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:169:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:173:13-71
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:168:13-74
+activity#${applicationId}.loader.a.Activity1_translucent
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:174:9-180:75
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:178:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:179:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:177:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:176:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:180:13-72
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:175:13-75
+activity#${applicationId}.loader.a.Activity1_translucent_fullscreen
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:181:9-187:86
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:185:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:186:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:184:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:183:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:187:13-83
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:182:13-86
+activity#${applicationId}.loader.a.Activity1_dialog
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:188:9-194:59
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:192:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:193:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:191:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:190:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:194:13-56
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:189:13-70
+activity#${applicationId}.loader.a.Activity1
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:195:9-202:63
+	android:process
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:199:13-39
+	android:screenOrientation
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:200:13-49
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:198:13-37
+	android:configChanges
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:197:13-83
+	android:theme
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:202:13-60
+	android:taskAffinity
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:201:13-44
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:196:13-63
+provider#com.qihoo360.replugin.component.provider.PluginPitProviderUI
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:204:9-207:40
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:206:13-65
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:207:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:205:13-88
+service#com.qihoo360.replugin.component.service.server.PluginPitServiceUI
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:209:9-101
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:209:18-98
+provider#com.qihoo360.replugin.packages.PluginFastInstallProvider
+ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:216:9-220:20
+	android:authorities
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:218:13-64
+	android:exported
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:219:13-37
+	android:name
+		ADDED from [com.qihoo360.replugin:replugin-host-lib:2.2.4] C:\Users\Hjo\.android\build-cache\66047d7364404958fffb5f20c1d6fb0eafe80b0d\output\AndroidManifest.xml:217:13-84

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\github\RePlugin-dev\replugin-sample\host\app\libs\common-utils-lib-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a2e997e8847b1f9fdbaddea3a771ad806b4ffb1">
+        <dex dex="D:\github\RePlugin-dev\replugin-sample\host\app\build\intermediates\pre-dexed\debug\common-utils-lib-1.0.0_b30471107bf18c8f09473e3dc42cb048d7ce3623.jar" />
+    </item>
+
+</items>

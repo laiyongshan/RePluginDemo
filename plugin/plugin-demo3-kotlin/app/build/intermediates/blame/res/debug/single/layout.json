@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_fragment.xml",
+        "source": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\build\\intermediates\\res\\merged\\debug\\layout\\simple.xml",
+        "source": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\src\\main\\res\\layout\\simple.xml"
+    }
+]

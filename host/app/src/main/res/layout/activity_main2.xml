@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    >
+
+    <Button
+        android:id="@+id/check_updata_plugin_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="检测是否安装更新插件"
+        android:padding="10dp"
+        />
+
+    <Button
+        android:id="@+id/open_plugin_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="直接打开插件"
+        android:padding="10dp"
+        />
+
+    <!--<Button-->
+        <!--android:id="@+id/install_plugin_btn"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="安装新插件"-->
+        <!--android:padding="10dp"/>-->
+
+    <Button
+        android:id="@+id/uninstall_plugin_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="卸载插件"
+        android:padding="10dp"/>
+
+</LinearLayout>

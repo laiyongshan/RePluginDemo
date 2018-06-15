@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "D:\\github\\RePlugin-dev\\replugin-sample\\plugin\\plugin-demo3-kotlin\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 637,
+                        "endColumn": 42,
+                        "endOffset": 675
+                    }
+                }
+            }
+        ]
+    }
+]
